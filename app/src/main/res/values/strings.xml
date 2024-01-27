@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidViews</string>
+    <string name="wrong_answer">wrong Answer</string>
+    <string name="questions">Questions</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="next_question">Next Question</string>
+    <string name="total_grades">Total Grades</string>
+    <string name="great_job">Great Job</string>
+</resources>
